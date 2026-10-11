@@ -1,4 +1,4 @@
-# 1ª entrega de Django - Prog. WEB (23/09/2026)
+# 2ª entrega de Django - Prog. WEB (09/10/2026)
 
 - Nome: Thalles Felipe Rodrigues de Almeida Santos
 - Curso: Ciência da Computação
@@ -6,4 +6,5 @@
 
 # Sistema em execução:
 
-![](image.png)
+![](image1.png)
+![](image2.png)
